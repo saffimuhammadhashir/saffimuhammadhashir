@@ -128,31 +128,44 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-**FAST-NUCES** · BS Computer Science · `Aug 2022 – Present`
+**BS Computer Science** · FAST-NUCES
+`Aug 2022 – Present` · Islamabad, Pakistan
 
-### 📜 Certifications & Specializations
+---
 
-**Machine Learning** · *DeepLearning.AI (Stanford University)*
-- Advanced Learning Algorithms · `Feb 2025`
-- Supervised Machine Learning: Regression and Classification · `Dec 2024`
-- AI For Everyone · `Dec 2024`
+## 📜 Certifications
 
-**Computer Science Fundamentals**
-- Accelerated Computer Science Fundamentals Specialization · *UIUC*
-  <br/><sub>Object-Oriented Data Structures in C++ · Ordered Data Structures · Unordered Data Structures</sub>
-- Programming in C++: A Hands-on Introduction Specialization · *Codio*
-  <br/><sub>Selection and Iteration · Vectors, Pointers, Strings & Files · Functions, Recursion & Objects · Inheritance and Encapsulation</sub>
+**🤖 Machine Learning & AI**
 
-**Front-End & Web Development**
-- Introduction to Front-End Development · *Meta*
-- React Basics · *Meta*
-- Advanced React · *Meta*
-- Build Your Portfolio Website with HTML and CSS · *Coursera*
+| Certificate | Issuer | Completed |
+|:--|:--|:--|
+| Advanced Learning Algorithms | DeepLearning.AI · Stanford | Feb 2025 |
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI · Stanford | Dec 2024 |
+| AI For Everyone | DeepLearning.AI | Dec 2024 |
 
-**Security**
-- Ethical Hacking Essentials (EHE) · *EC-Council*
+**💻 Computer Science & C++**
+
+| Certificate | Issuer | Courses |
+|:--|:--|:--|
+| Accelerated Computer Science Fundamentals *(Specialization)* | UIUC | 3 courses · Object-Oriented, Ordered & Unordered Data Structures in C++ |
+| Programming in C++: A Hands-on Introduction *(Specialization)* | Codio | 4 courses · Selection & Iteration, Data Structures, Functions & Recursion, Inheritance |
+
+**🌐 Front-End & Web Development**
+
+| Certificate | Issuer |
+|:--|:--|
+| Introduction to Front-End Development | Meta |
+| React Basics | Meta |
+| Advanced React | Meta |
+| Build Your Portfolio Website with HTML and CSS | Coursera |
+
+**🔐 Security**
+
+| Certificate | Issuer |
+|:--|:--|
+| Ethical Hacking Essentials (EHE) | EC-Council |
 
 ---
 

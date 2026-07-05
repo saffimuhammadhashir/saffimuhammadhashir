@@ -151,6 +151,6 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 
 <div align="center">
 
-**Let's build something.** · [📧 Email](mailto:saffimhashir123@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/saffi-muhammad-hashir) · [🏢 chrio.site](https://chrio.site)
+**Let's build something.** · [📧 Email](mailto:saffimhashir123@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/saffi-muhammad-hashir) · [🏢 chrio.site](https://chrio.site) · [🏢 repic.site](https://repic.site)
 
 </div>

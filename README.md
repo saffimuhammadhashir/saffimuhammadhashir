@@ -9,6 +9,7 @@
 
 Islamabad, Pakistan
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-saffimuhammadhashir.github.io-0E7C66?style=for-the-badge&logo=react&logoColor=white)](https://saffimuhammadhashir.github.io)
 [![Chrio](https://img.shields.io/badge/Chrio-chrio.site-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrio.site)
 [![Repic](https://img.shields.io/badge/Repic-repic.site-00B894?style=for-the-badge&logo=google-chrome&logoColor=white)](https://repic.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saffi-muhammad-hashir)
@@ -215,6 +216,6 @@ Products I've designed and shipped across sports analytics, internal operations,
 
 <div align="center">
 
-**Let's build something.** · [Email](mailto:saffimhashir123@gmail.com) · [LinkedIn](https://linkedin.com/in/saffi-muhammad-hashir) · [chrio.site](https://chrio.site) · [repic.site](https://repic.site)
+**Let's build something.** · [Portfolio](https://saffimuhammadhashir.github.io) · [Email](mailto:saffimhashir123@gmail.com) · [LinkedIn](https://linkedin.com/in/saffi-muhammad-hashir) · [chrio.site](https://chrio.site) · [repic.site](https://repic.site)
 
 </div>

@@ -126,7 +126,7 @@ A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, 
 
 [![Live](https://img.shields.io/badge/Live-repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
 
-An **AI content studio for creators** that automates the full workflow from research to finished video. A **Django REST** core orchestrates **7+ FastAPI microservices** — idea generation, script writing, web/Reddit scraping, GPU transcription (Whisper), Instagram insights, and **Google Veo / Imagen** media generation — with async pipelines over **Celery / Redis** and **Google Cloud Tasks**. **Repic 2.0** adds **AI Twins** that clone a creator's voice, writing style, and visual identity for on-brand content at scale.
+An **AI content studio for creators** that automates the full workflow from research to finished video. A **Django REST** core orchestrates **7+ FastAPI microservices** (idea generation, script writing, web/Reddit scraping, GPU transcription with Whisper, Instagram insights, and **Google Veo / Imagen** media generation), with async pipelines over **Celery / Redis** and **Google Cloud Tasks**. **Repic 2.0** adds **AI Twins** that clone a creator's voice, writing style, and visual identity for on-brand content at scale.
 
 ### Chrio Product Suite
 

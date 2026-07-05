@@ -148,7 +148,7 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 ## 🎓 Education
 
 **BS Computer Science** · FAST-NUCES
-`Aug 2022 – Present` · Islamabad, Pakistan
+`Aug 2022 – May 2026` · Islamabad, Pakistan
 
 ---
 

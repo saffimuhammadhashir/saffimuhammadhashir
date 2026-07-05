@@ -97,27 +97,28 @@ I like turning research-grade models into things people actually use: 30 FPS inf
 - Built **Repic**, an AI content-creation platform: a **Django REST** backend-for-frontend orchestrating **7+ FastAPI microservices** (idea, script, image, video, transcription, scraping, Instagram insights) on **Google Cloud Run**.
 - Shipped **AI Twins** that clone a creator's **voice, writing style, and visual identity** for consistent, on-brand content generation.
 - Integrated **Google Veo, Imagen, Gemini, and Whisper** into an end-to-end idea → script → image → video pipeline, with async orchestration via **Celery / Redis + Cloud Tasks**.
-- Implemented authentication and billing with **OAuth 2.0 + JWT + RBAC**.
 
 ---
 
 ## Projects
 
-### VFXGen &nbsp;·&nbsp; Final Year Project &nbsp; `Featured`
+### VFXGen · Final Year Project
 
-`React · FastAPI · Hunyuan3D · COLMAP · SAM · XMem · WAN 2.1-VACE · Gemini · GCP`
-
-[![Live](https://img.shields.io/badge/Live-f25--111--d--vfx--gen.vercel.app-6C5CE7?style=flat-square&logo=vercel&logoColor=white)](https://f25-111-d-vfx-gen.vercel.app)
+[![Featured](https://img.shields.io/badge/Featured-C6472B?style=flat-square)](https://f25-111-d-vfx-gen.vercel.app)&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0E7C66?style=flat-square&logo=vercel&logoColor=white)](https://f25-111-d-vfx-gen.vercel.app)
 
 A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, COLMAP, OWLv2 + SAM + XMem masking, and the 4.1B-parameter WAN 2.1-VACE video model. **Ranked #1 on FiVE-Bench (ICCV 2025)**, leading 12/14 metrics and all 5 FiVE-Acc edit-correctness scores at ~5% the inference cost of competing systems.
 
-### Repic &nbsp;·&nbsp; AI Content Platform &nbsp; `Featured`
+`React` `FastAPI` `Hunyuan3D` `COLMAP` `SAM` `XMem` `WAN 2.1-VACE` `Gemini` `GCP`
 
-`React · Django REST · FastAPI · PostgreSQL · Celery · Redis · Google Cloud Run · Veo · Imagen · Gemini · Whisper`
+### Repic · AI Content Platform
 
-[![Live](https://img.shields.io/badge/Live-repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
+[![Featured](https://img.shields.io/badge/Featured-C6472B?style=flat-square)](https://repic.site)&nbsp;
+[![Live](https://img.shields.io/badge/Live-repic.site-0E7C66?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
 
 An **AI content studio for creators** that automates the full workflow from research to finished video. A **Django REST** core orchestrates **7+ FastAPI microservices** (idea generation, script writing, web/Reddit scraping, GPU transcription with Whisper, Instagram insights, and **Google Veo / Imagen** media generation), with async pipelines over **Celery / Redis** and **Google Cloud Tasks**. **Repic 2.0** adds **AI Twins** that clone a creator's voice, writing style, and visual identity for on-brand content at scale.
+
+`React` `Django REST` `FastAPI` `PostgreSQL` `Celery` `Redis` `Google Cloud Run` `Veo` `Imagen` `Gemini` `Whisper`
 
 ### Products I've Built
 

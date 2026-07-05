@@ -86,14 +86,6 @@ I like turning research-grade models into things people actually use — 30 FPS 
 `Nov 2025 – Present` · Islamabad, Pakistan
 - Designed **microservices architecture** with API gateway; implemented **OAuth 2.0 + JWT + RBAC**
 
-### 🏢 Zeros — Machine Learning Engineer
-`May 2025 – Aug 2025` · San Francisco, CA (Remote)
-- Built an **AI decision engine** using GPT-4 with Chain-of-Thought — **40% faster decisions**, 1000+ daily requests
-
-### 🏢 IEEE FAST-NUCES / FAST Developers Club — R&D Officer · Frontend Lead
-`Aug 2024 – Jun 2025` · Islamabad, Pakistan
-- Led the **FYP Portal** frontend (React, 500+ users); mentored 10+ juniors in ML/DL fundamentals
-
 ---
 
 ## 🚀 Featured Projects

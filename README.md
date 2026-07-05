@@ -112,7 +112,7 @@ A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, 
 
 ### Repic &nbsp;·&nbsp; AI Content Platform &nbsp; `Featured`
 
-`React · Vite · Tailwind · Django REST · FastAPI · PostgreSQL · Celery · Redis · Google Cloud Run · Veo · Imagen · Gemini · Whisper`
+`React · Django REST · FastAPI · PostgreSQL · Celery · Redis · Google Cloud Run · Veo · Imagen · Gemini · Whisper`
 
 [![Live](https://img.shields.io/badge/Live-repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
 

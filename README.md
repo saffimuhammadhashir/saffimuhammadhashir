@@ -132,10 +132,27 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 
 **FAST-NUCES** · BS Computer Science · `Aug 2022 – Present`
 
-**Certifications**
-- Advanced Learning Algorithms · Supervised ML · *DeepLearning.AI*
-- Accelerated CS Fundamentals · *UIUC*
-- Meta Front-End Developer · Advanced React · *Meta*
+### 📜 Certifications & Specializations
+
+**Machine Learning** · *DeepLearning.AI (Stanford University)*
+- Advanced Learning Algorithms · `Feb 2025`
+- Supervised Machine Learning: Regression and Classification · `Dec 2024`
+- AI For Everyone · `Dec 2024`
+
+**Computer Science Fundamentals**
+- Accelerated Computer Science Fundamentals Specialization · *UIUC*
+  <br/><sub>Object-Oriented Data Structures in C++ · Ordered Data Structures · Unordered Data Structures</sub>
+- Programming in C++: A Hands-on Introduction Specialization · *Codio*
+  <br/><sub>Selection and Iteration · Vectors, Pointers, Strings & Files · Functions, Recursion & Objects · Inheritance and Encapsulation</sub>
+
+**Front-End & Web Development**
+- Introduction to Front-End Development · *Meta*
+- React Basics · *Meta*
+- Advanced React · *Meta*
+- Build Your Portfolio Website with HTML and CSS · *Coursera*
+
+**Security**
+- Ethical Hacking Essentials (EHE) · *EC-Council*
 
 ---
 

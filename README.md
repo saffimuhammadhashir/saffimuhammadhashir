@@ -106,9 +106,9 @@ I like turning research-grade models into things people actually use: 30 FPS inf
 
 ---
 
-## Featured Project
+## Projects
 
-### VFXGen · Final Year Project
+### VFXGen &nbsp;·&nbsp; Final Year Project &nbsp; `Featured`
 
 `React · FastAPI · Hunyuan3D · COLMAP · SAM · XMem · WAN 2.1-VACE · Gemini · GCP`
 
@@ -116,9 +116,7 @@ I like turning research-grade models into things people actually use: 30 FPS inf
 
 A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, COLMAP, OWLv2 + SAM + XMem masking, and the 4.1B-parameter WAN 2.1-VACE video model. **Ranked #1 on FiVE-Bench (ICCV 2025)**, leading 12/14 metrics and all 5 FiVE-Acc edit-correctness scores at ~5% the inference cost of competing systems.
 
----
-
-## Chrio · Product Suite
+### Chrio Product Suite
 
 A suite of AI-driven products spanning sports analytics, internal operations, consumer search, and digital health.
 

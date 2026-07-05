@@ -78,7 +78,7 @@ I like turning research-grade models into things people actually use: 30 FPS inf
 ## 💼 Experience
 
 ### 🏢 Chrio · Founder & CTO
-`Jun 2024 – Present` · Islamabad, Pakistan
+`Jun 2024 – Present` · Islamabad, Pakistan · [![Site](https://img.shields.io/badge/chrio.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://chrio.site)
 - Built **real-time cricket analytics at 30 FPS** using YOLO + Detectron2 + SORT + SAHI, **99.5% accuracy**
 - Architected a **multi-product ecosystem** (Chrio Atlas, CritRate, Chrio Flow) across 7 platforms; **led 25 engineers**
 - Optimized GPU inference with CUDA/PyTorch: cut latency **200ms → 33ms (6× speedup)**

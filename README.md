@@ -10,6 +10,7 @@
 📍 Islamabad, Pakistan
 
 [![Chrio](https://img.shields.io/badge/Chrio-chrio.site-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrio.site)
+[![Repic](https://img.shields.io/badge/Repic-repic.site-00B894?style=for-the-badge&logo=google-chrome&logoColor=white)](https://repic.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saffi-muhammad-hashir)
 [![Email](https://img.shields.io/badge/Email-saffimhashir123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saffimhashir123@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+92--312--6247183-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923126247183)

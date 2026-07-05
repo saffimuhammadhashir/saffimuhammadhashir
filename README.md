@@ -21,12 +21,13 @@ Islamabad, Pakistan
 
 ## About
 
-I'm an **ML Engineer and Full-Stack Developer** specializing in real-time computer vision and production web applications. Founder of **two tech startups** with products recognized at the **Google Startup Program**, **HBL P@SHA ICT Awards**, and **Prime Minister Pitch Perfect**.
+I'm an **ML Engineer and Full-Stack Developer** specializing in real-time computer vision and full-stack AI platforms. Founder of **two tech startups** with products recognized at the **Google Startup Program**, **HBL P@SHA ICT Awards**, and **Prime Minister Pitch Perfect**.
 
-I like turning research-grade models into things people actually use: 30 FPS inference pipelines, distributed scrapers, and platforms that ship.
+I like turning research-grade models into things people actually use: 30 FPS inference pipelines, microservice AI backends, and platforms that ship.
 
-- Building real-time **cricket analytics at 30 FPS** (99.5% accuracy)
-- Built a **7-stage AI video pipeline** ranked **#1 on FiVE-Bench (ICCV 2025)**
+- Real-time **cricket analytics at 30 FPS** (99.5% accuracy) at **Chrio**
+- **Repic**: an AI content platform (Django + FastAPI microservices, Google Veo / Imagen / Gemini, AI Twins)
+- **VFXGen**: a 7-stage AI video pipeline ranked **#1 on FiVE-Bench (ICCV 2025)**
 - Leading engineering across a **multi-product ecosystem** on 7 platforms
 - BS Computer Science at **FAST-NUCES**
 
@@ -102,7 +103,10 @@ I like turning research-grade models into things people actually use: 30 FPS inf
 
 ### Repic · Co-Founder & CTO
 `Nov 2025 – Present` · Islamabad, Pakistan · [![Site](https://img.shields.io/badge/repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
-- Designed **microservices architecture** with API gateway; implemented **OAuth 2.0 + JWT + RBAC**
+- Built **Repic**, an AI content-creation platform: a **Django REST** backend-for-frontend orchestrating **7+ FastAPI microservices** (idea, script, image, video, transcription, scraping, Instagram insights) on **Google Cloud Run**.
+- Shipped **AI Twins** that clone a creator's **voice, writing style, and visual identity** for consistent, on-brand content generation.
+- Integrated **Google Veo, Imagen, Gemini, and Whisper** into an end-to-end idea → script → image → video pipeline, with async orchestration via **Celery / Redis + Cloud Tasks**.
+- Implemented authentication and billing with **OAuth 2.0 + JWT + RBAC**.
 
 ---
 
@@ -115,6 +119,14 @@ I like turning research-grade models into things people actually use: 30 FPS inf
 [![Live](https://img.shields.io/badge/Live-f25--111--d--vfx--gen.vercel.app-6C5CE7?style=flat-square&logo=vercel&logoColor=white)](https://f25-111-d-vfx-gen.vercel.app)
 
 A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, COLMAP, OWLv2 + SAM + XMem masking, and the 4.1B-parameter WAN 2.1-VACE video model. **Ranked #1 on FiVE-Bench (ICCV 2025)**, leading 12/14 metrics and all 5 FiVE-Acc edit-correctness scores at ~5% the inference cost of competing systems.
+
+### Repic &nbsp;·&nbsp; AI Content Platform &nbsp; `Featured`
+
+`React · Vite · Tailwind · Django REST · FastAPI · PostgreSQL · Celery · Redis · Google Cloud Run · Veo · Imagen · Gemini · Whisper`
+
+[![Live](https://img.shields.io/badge/Live-repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
+
+An **AI content studio for creators** that automates the full workflow from research to finished video. A **Django REST** core orchestrates **7+ FastAPI microservices** — idea generation, script writing, web/Reddit scraping, GPU transcription (Whisper), Instagram insights, and **Google Veo / Imagen** media generation — with async pipelines over **Celery / Redis** and **Google Cloud Tasks**. **Repic 2.0** adds **AI Twins** that clone a creator's voice, writing style, and visual identity for on-brand content at scale.
 
 ### Chrio Product Suite
 

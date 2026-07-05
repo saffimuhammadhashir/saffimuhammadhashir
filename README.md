@@ -23,7 +23,7 @@
 
 I'm an **ML Engineer and Full-Stack Developer** specializing in real-time computer vision and production web applications. Founder of **two tech startups** with products recognized at the **Google Startup Program**, **HBL P@SHA ICT Awards**, and **Prime Minister Pitch Perfect**.
 
-I like turning research-grade models into things people actually use — 30 FPS inference pipelines, distributed scrapers, and platforms that ship.
+I like turning research-grade models into things people actually use: 30 FPS inference pipelines, distributed scrapers, and platforms that ship.
 
 - 🏏 Building real-time **cricket analytics at 30 FPS** (99.5% accuracy)
 - 🎬 Built a **7-stage AI video pipeline** ranked **#1 on FiVE-Bench (ICCV 2025)**
@@ -77,13 +77,13 @@ I like turning research-grade models into things people actually use — 30 FPS 
 
 ## 💼 Experience
 
-### 🏢 Chrio — Founder & CTO
+### 🏢 Chrio · Founder & CTO
 `Jun 2024 – Present` · Islamabad, Pakistan
-- Built **real-time cricket analytics at 30 FPS** using YOLO + Detectron2 + SORT + SAHI — **99.5% accuracy**
+- Built **real-time cricket analytics at 30 FPS** using YOLO + Detectron2 + SORT + SAHI, **99.5% accuracy**
 - Architected a **multi-product ecosystem** (Chrio Atlas, CritRate, Chrio Flow) across 7 platforms; **led 25 engineers**
-- Optimized GPU inference with CUDA/PyTorch — cut latency **200ms → 33ms (6× speedup)**
+- Optimized GPU inference with CUDA/PyTorch: cut latency **200ms → 33ms (6× speedup)**
 
-### 🏢 Repic — Co-Founder & CTO
+### 🏢 Repic · Co-Founder & CTO
 `Nov 2025 – Present` · Islamabad, Pakistan · [![Site](https://img.shields.io/badge/repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
 - Designed **microservices architecture** with API gateway; implemented **OAuth 2.0 + JWT + RBAC**
 
@@ -91,51 +91,51 @@ I like turning research-grade models into things people actually use — 30 FPS 
 
 ## 🚀 Featured Project
 
-### 🎬 VFXGen — Final Year Project
+### 🎬 VFXGen · Final Year Project
 
 `React · FastAPI · Hunyuan3D · COLMAP · SAM · XMem · WAN 2.1-VACE · Gemini · GCP`
 
 [![Live](https://img.shields.io/badge/Live-f25--111--d--vfx--gen.vercel.app-6C5CE7?style=flat-square&logo=vercel&logoColor=white)](https://f25-111-d-vfx-gen.vercel.app)
 
-A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, COLMAP, OWLv2 + SAM + XMem masking, and the 4.1B-parameter WAN 2.1-VACE video model. **Ranked #1 on FiVE-Bench (ICCV 2025)** — leading 12/14 metrics and all 5 FiVE-Acc edit-correctness scores at ~5% the inference cost of competing systems.
+A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, COLMAP, OWLv2 + SAM + XMem masking, and the 4.1B-parameter WAN 2.1-VACE video model. **Ranked #1 on FiVE-Bench (ICCV 2025)**, leading 12/14 metrics and all 5 FiVE-Acc edit-correctness scores at ~5% the inference cost of competing systems.
 
 ---
 
-## 🏗️ Chrio — Product Suite
+## 🏗️ Chrio · Product Suite
 
 A suite of AI-driven products spanning sports analytics, internal operations, consumer search, and digital health.
 
 | Product | What it does | Links |
 |:--|:--|:--|
-| **Chrio Atlas** <br/> *Internal Ops & Hiring* | Internal resource-management platform running hiring, onboarding, and team coordination — with an **AI-powered talent-screening system** that evaluates candidates at scale. | [🌐 Site](https://chrioatlas.com) · [▶ Demo](https://drive.google.com/file/d/1xANsonS31Tfh_NtY7dfzvDLnxZ0AfLkU/view) |
+| **Chrio Atlas** <br/> *Internal Ops & Hiring* | Internal resource-management platform running hiring, onboarding, and team coordination, with an **AI-powered talent-screening system** that evaluates candidates at scale. | [🌐 Site](https://chrioatlas.com) · [▶ Demo](https://drive.google.com/file/d/1xANsonS31Tfh_NtY7dfzvDLnxZ0AfLkU/view) |
 | **CritRate** <br/> *AI Cricket Analytics* | Advanced cricket-analytics platform for match tracking and player evaluation, with real-time and historical insights plus **AI-driven outcome prediction**. | [🌐 Site](https://critrate.chrio.site) · [▶ Demo](https://drive.google.com/file/d/19CUX89A05vw4tX2L4snSW0n1kStpVvy2/view) |
-| **Dhundo** <br/> *Product Search Engine* | Aggregates product listings across the Pakistani internet to compare prices, ratings, and deals — built for **high-scale crawling and price discovery**. | [🌐 Site](https://dhundo.store) · [▶ Demo](https://drive.google.com/file/d/1PVIu43Oq-aVuDyD6x0fiXXQFdcmdukOK/view) |
+| **Dhundo** <br/> *Product Search Engine* | Aggregates product listings across the Pakistani internet to compare prices, ratings, and deals, built for **high-scale crawling and price discovery**. | [🌐 Site](https://dhundo.store) · [▶ Demo](https://drive.google.com/file/d/1PVIu43Oq-aVuDyD6x0fiXXQFdcmdukOK/view) |
 | **Tifl** <br/> *Child Development* | **HIPAA-compliant** digital-health platform to track developmental milestones, manage health records, and monitor child growth from pregnancy to age three. | [🌐 Site](https://tiflcare.com) · [▶ Demo](https://drive.google.com/file/d/1aPrkUvea4pMhGH1--L_0X3JLDMw52Ein/view) |
 | **Chrio Flow** <br/> *Feed & Access Control* | Centralized feed and access-management platform handling **authentication, permissions, and structured feed workflows** across Chrio's systems. | [🌐 Site](https://chrioflow.chrioatlas.com) · [▶ Demo](https://drive.google.com/file/d/1lBI723kALiLOr2NEcc_uYPBu492mt5Di/view) |
 | **AscorLog** <br/> *Procurement Tracking* | Procurement and operations platform tracking materials and workflows across supply chains, with **structured approvals and operational traceability**. | [🌐 Site](https://ascorlog.com) · [▶ Demo](https://drive.google.com/file/d/1vZhReYP1O0gEJbFFeNmSE8ZzWIZxzsZk/view) |
-| **Chrio** <br/> *Corporate Website* | The company's main site — vision, leadership, partnerships, careers, and the broader **AI-driven sports & technology ecosystem**. | [🌐 Site](https://chrio.site) · [▶ Demo](https://drive.google.com/file/d/1an9vbh74rUo-Uftr1OpqyQq1axtVTMeN/view) |
+| **Chrio** <br/> *Corporate Website* | The company's main site: vision, leadership, partnerships, careers, and the broader **AI-driven sports & technology ecosystem**. | [🌐 Site](https://chrio.site) · [▶ Demo](https://drive.google.com/file/d/1an9vbh74rUo-Uftr1OpqyQq1axtVTMeN/view) |
 
 ---
 
 ## 🏆 Awards & Honors
 
-- 🥇 **Google Startup Program Winner ($25K)** — GCP credits; trained a 99.5% ball-detection model · *Sep 2025*
-- 🥈 **National Ignite AI Wrapper Award (Runner-Up)** — EdTech; 15 finalists from 3,000 applicants · *Oct 2025*
-- 🥈 **HBL P@SHA ICT Awards (Runner-Up)** — Media & Entertainment; national-level AI sports-tech · *Sep 2025*
-- 🎯 **Prime Minister Pitch Perfect (Finalist)** — Top 50 startups nationwide; featured on National TV · *Nov 2025*
-- 🥇 **Vision AI Hackathon Winner** — hand-action model using bone-location features · *Jan 2025*
-- 🏅 **Citadel National Pathfinder (Top 8)** — qualified for national-level startup representation · *Nov 2025*
+- 🥇 **Google Startup Program Winner ($25K)** · GCP credits; trained a 99.5% ball-detection model · *Sep 2025*
+- 🥈 **National Ignite AI Wrapper Award (Runner-Up)** · EdTech; 15 finalists from 3,000 applicants · *Oct 2025*
+- 🥈 **HBL P@SHA ICT Awards (Runner-Up)** · Media & Entertainment; national-level AI sports-tech · *Sep 2025*
+- 🎯 **Prime Minister Pitch Perfect (Finalist)** · Top 50 startups nationwide; featured on National TV · *Nov 2025*
+- 🥇 **Vision AI Hackathon Winner** · hand-action model using bone-location features · *Jan 2025*
+- 🏅 **Citadel National Pathfinder (Top 8)** · qualified for national-level startup representation · *Nov 2025*
 
 ---
 
 ## 🎓 Education & Certifications
 
-**FAST-NUCES** — BS Computer Science · `Aug 2022 – Present`
+**FAST-NUCES** · BS Computer Science · `Aug 2022 – Present`
 
 **Certifications**
-- Advanced Learning Algorithms · Supervised ML — *DeepLearning.AI*
-- Accelerated CS Fundamentals — *UIUC*
-- Meta Front-End Developer · Advanced React — *Meta*
+- Advanced Learning Algorithms · Supervised ML · *DeepLearning.AI*
+- Accelerated CS Fundamentals · *UIUC*
+- Meta Front-End Developer · Advanced React · *Meta*
 
 ---
 

@@ -9,7 +9,7 @@
 
 📍 Islamabad, Pakistan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chrioatlas.com-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrioatlas.com)
+[![Chrio](https://img.shields.io/badge/Chrio-chrio.site-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chrio.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saffi-muhammad-hashir)
 [![Email](https://img.shields.io/badge/Email-saffimhashir123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saffimhashir123@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+92--312--6247183-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923126247183)
@@ -150,6 +150,6 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 
 <div align="center">
 
-**Let's build something.** · [📧 Email](mailto:saffimhashir123@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/saffi-muhammad-hashir) · [🌐 chrioatlas.com](https://chrioatlas.com)
+**Let's build something.** · [📧 Email](mailto:saffimhashir123@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/saffi-muhammad-hashir) · [🏢 chrio.site](https://chrio.site)
 
 </div>

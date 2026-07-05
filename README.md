@@ -83,7 +83,7 @@ I like turning research-grade models into things people actually use — 30 FPS 
 - Optimized GPU inference with CUDA/PyTorch — cut latency **200ms → 33ms (6× speedup)**
 
 ### 🏢 Repic — Co-Founder & CTO
-`Nov 2025 – Present` · Islamabad, Pakistan
+`Nov 2025 – Present` · Islamabad, Pakistan · [![Site](https://img.shields.io/badge/repic.site-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](https://repic.site)
 - Designed **microservices architecture** with API gateway; implemented **OAuth 2.0 + JWT + RBAC**
 
 ---

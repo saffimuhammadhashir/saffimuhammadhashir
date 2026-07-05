@@ -205,6 +205,12 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 
 <div align="center">
 
+![Repositories](https://img.shields.io/badge/Repositories-57-4285F4?style=for-the-badge&logo=github&logoColor=white)
+![Avg Commits per Day](https://img.shields.io/badge/Avg%20Commits%2FDay-~2.8-6C5CE7?style=for-the-badge&logo=git&logoColor=white)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-3.8K+-00B894?style=for-the-badge&logo=github&logoColor=white)
+
+<sub>~3,866 contributions across 1,374 active days since Sep 2022</sub>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saffimuhammadhashir&theme=tokyonight&hide_border=true)](https://github.com/saffimuhammadhashir)
 
 </div>

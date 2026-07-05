@@ -147,25 +147,40 @@ A suite of AI-driven products spanning sports analytics, internal operations, co
 
 **💻 Computer Science & C++**
 
-| Certificate | Issuer | Courses |
+| Specialization | Issuer | Completed |
 |:--|:--|:--|
-| Accelerated Computer Science Fundamentals *(Specialization)* | UIUC | 3 courses · Object-Oriented, Ordered & Unordered Data Structures in C++ |
-| Programming in C++: A Hands-on Introduction *(Specialization)* | Codio | 4 courses · Selection & Iteration, Data Structures, Functions & Recursion, Inheritance |
+| Accelerated Computer Science Fundamentals | UIUC | Oct 2024 |
+| Programming in C++: A Hands-on Introduction | Codio | Aug 2023 |
+
+<details>
+<summary><sub>▸ View all 7 member courses</sub></summary>
+
+| Course | Issuer | Completed |
+|:--|:--|:--|
+| Object-Oriented Data Structures in C++ | UIUC | Mar 2023 |
+| Ordered Data Structures | UIUC | Nov 2023 |
+| Unordered Data Structures | UIUC | Oct 2024 |
+| C++ Basics: Selection and Iteration | Codio | Apr 2023 |
+| C++ Basic Structures: Vectors, Pointers, Strings, and Files | Codio | Mar 2023 |
+| C++ Object Basics: Functions, Recursion, and Objects | Codio | Aug 2023 |
+| Object-Oriented C++: Inheritance and Encapsulation | Codio | Apr 2023 |
+
+</details>
 
 **🌐 Front-End & Web Development**
 
-| Certificate | Issuer |
-|:--|:--|
-| Introduction to Front-End Development | Meta |
-| React Basics | Meta |
-| Advanced React | Meta |
-| Build Your Portfolio Website with HTML and CSS | Coursera |
+| Certificate | Issuer | Completed |
+|:--|:--|:--|
+| Introduction to Front-End Development | Meta | Nov 2023 |
+| React Basics | Meta | Oct 2024 |
+| Advanced React | Meta | Oct 2024 |
+| Build Your Portfolio Website with HTML and CSS | Coursera | Sep 2022 |
 
 **🔐 Security**
 
-| Certificate | Issuer |
-|:--|:--|
-| Ethical Hacking Essentials (EHE) | EC-Council |
+| Certificate | Issuer | Completed |
+|:--|:--|:--|
+| Ethical Hacking Essentials (EHE) | EC-Council | Oct 2024 |
 
 ---
 

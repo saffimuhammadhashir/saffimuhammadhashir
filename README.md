@@ -88,17 +88,63 @@ I like turning research-grade models into things people actually use — 30 FPS 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **VFXGen** — Final Year Project | 7-stage AI pipeline for cinematic object replacement. **#1 on FiVE-Bench (ICCV 2025)**, leading 12/14 metrics at ~5% the inference cost | React · FastAPI · Hunyuan3D · COLMAP · SAM · XMem · WAN 2.1-VACE | [Live](https://f25-111-d-vfx-gen.vercel.app) |
-| **Chrio Atlas** | Internal ops & AI-powered hiring platform for onboarding, recruitment & org workflows | React · Django · FastAPI · Gemini · PostgreSQL | [Live](https://chrioatlas.com) |
-| **CritRate** | AI cricket analytics — real-time match tracking, player evaluation & predictive insights | React · Django · FastAPI · LSTM · Cloud Run | [Live](https://critrate.chrio.site) |
-| **Dhundo** | Distributed product search engine — 17 containerized scrapers for cross-platform price discovery | React · Django · WebSockets · Gemini · Docker | [Live](https://dhundo.store) |
-| **Chrio Flow** | Centralized feed & access-control platform with media workflow management | React · Django REST · FFmpeg · CUDA/NVENC · GCS | [Live](https://chrioflow.chrioatlas.com) |
-| **Tifl** | HIPAA-compliant parenting & child-development platform — milestones, health records, growth | React · Django REST · Google Video Intelligence · Gemini | [Live](https://tiflcare.com) |
-| **AscorLog** | Procurement & process-tracking system with approvals and supply-chain traceability | Django · PostgreSQL · React · RBAC · Audit Logging | [Live](https://ascorlog.com) |
+### 🎬 VFXGen — Final Year Project
+
+`React · FastAPI · Hunyuan3D · COLMAP · SAM · XMem · WAN 2.1-VACE · Gemini · GCP`
+
+[![Live](https://img.shields.io/badge/Live-f25--111--d--vfx--gen.vercel.app-6C5CE7?style=flat-square&logo=vercel&logoColor=white)](https://f25-111-d-vfx-gen.vercel.app)
+
+A **seven-stage AI pipeline** for cinematic object replacement using Hunyuan3D, COLMAP, OWLv2 + SAM + XMem masking, and the 4.1B-parameter WAN 2.1-VACE video model. **Ranked #1 on FiVE-Bench (ICCV 2025)** — leading 12/14 metrics and all 5 FiVE-Acc edit-correctness scores at ~5% the inference cost of competing systems.
+
+---
+
+## 🏗️ Chrio — Product Demos & Platforms
+
+> The Chrio ecosystem — a suite of AI-driven products spanning sports analytics, internal operations, consumer search, and digital health.
+
+### 1. Chrio Atlas — Internal Operations & Hiring Platform
+[![Live](https://img.shields.io/badge/Live-chrioatlas.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrioatlas.com)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1xANsonS31Tfh_NtY7dfzvDLnxZ0AfLkU/view)
+
+An internal resource-management and operations platform that runs core company workflows — hiring, onboarding, team coordination, and internal operations. Includes an **AI-powered hiring and talent-screening system** that evaluates candidates at scale and streamlines recruitment decisions.
+
+### 2. CritRate — AI-Powered Cricket Analytics
+[![Live](https://img.shields.io/badge/Live-critrate.chrio.site-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://critrate.chrio.site)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19CUX89A05vw4tX2L4snSW0n1kStpVvy2/view)
+
+An advanced cricket-analytics platform for managing and tracking matches and stats. Evaluates player performance, delivers real-time and historical insights, and supports match analysis and outcome prediction using **AI-driven models**.
+
+### 3. Dhundo — Pakistan-Wide Product Search Engine
+[![Live](https://img.shields.io/badge/Live-dhundo.store-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://dhundo.store)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PVIu43Oq-aVuDyD6x0fiXXQFdcmdukOK/view)
+
+Aggregates product listings across the Pakistani internet, letting users compare prices, ratings, and deals from multiple e-commerce stores in one place. Built for **high-scale crawling, search relevance, and consumer price discovery**.
+
+### 4. Tifl — Parenting & Child Development App
+[![Live](https://img.shields.io/badge/Live-tiflcare.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://tiflcare.com)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1aPrkUvea4pMhGH1--L_0X3JLDMw52Ein/view)
+
+A **HIPAA-compliant** digital-health platform that helps parents track developmental milestones, manage health records, set growth goals, and monitor child development from pregnancy to age three.
+
+### 5. Chrio Flow — Feed Management & Access Control
+[![Live](https://img.shields.io/badge/Live-chrioflow.chrioatlas.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrioflow.chrioatlas.com)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lBI723kALiLOr2NEcc_uYPBu492mt5Di/view)
+
+A centralized feed and access-management platform that organizes, controls, and distributes internal feeds across Chrio's systems. Manages **authentication, permissions, and structured feed workflows** — delivering the right information to the right users, in the right context, across teams and deployments.
+
+### 6. AscorLog — Procurement & Process Tracking
+[![Live](https://img.shields.io/badge/Live-ascorlog.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://ascorlog.com)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1vZhReYP1O0gEJbFFeNmSE8ZzWIZxzsZk/view)
+
+A procurement and operations platform that tracks materials, workflows, and operational processes across organizational supply chains. Supports **structured approvals, process visibility, and operational traceability**.
+
+### 7. Chrio — Corporate Website
+[![Live](https://img.shields.io/badge/Live-chrio.site-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chrio.site)
+[![Demo](https://img.shields.io/badge/▶_Demo-Watch-EA4335?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1an9vbh74rUo-Uftr1OpqyQq1axtVTMeN/view)
+
+The main corporate website of Chrio — presenting the company's vision, leadership, partnerships, careers, and its broader **AI-driven sports and technology ecosystem**.
 
 ---
 

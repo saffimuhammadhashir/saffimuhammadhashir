@@ -207,7 +207,7 @@ Products I've designed and shipped across sports analytics, internal operations,
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saffimuhammadhashir&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/saffimuhammadhashir)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saffimuhammadhashir&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=20260712)](https://github.com/saffimuhammadhashir)
 
 <sub>**86** repositories&nbsp; ·&nbsp; **3,491** contributions in the past year&nbsp; ·&nbsp; **~3.2** contributions / day since **Sep 2022**</sub>
 

@@ -14,7 +14,7 @@ Islamabad, Pakistan
 [![Repic](https://img.shields.io/badge/Repic-repic.site-00B894?style=for-the-badge&logo=google-chrome&logoColor=white)](https://repic.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saffi-muhammad-hashir)
 [![Email](https://img.shields.io/badge/Email-saffimhashir123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saffimhashir123@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-+92--312--6247183-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923126247183)
+[![Phone](https://img.shields.io/badge/Call-+92--312--6247183-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923126247183)
 
 </div>
 
@@ -207,9 +207,9 @@ Products I've designed and shipped across sports analytics, internal operations,
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saffimuhammadhashir&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=20260712)](https://github.com/saffimuhammadhashir)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saffimuhammadhashir&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&v=20260730)](https://github.com/saffimuhammadhashir)
 
-<sub>**86** repositories&nbsp; ·&nbsp; **3,491** contributions in the past year&nbsp; ·&nbsp; **~3.2** contributions / day since **Sep 2022**</sub>
+<sub>**86** repositories&nbsp; ·&nbsp; **3,944** contributions in the past year&nbsp; ·&nbsp; **~3.4** contributions / day since **Sep 2022**</sub>
 
 </div>
 
